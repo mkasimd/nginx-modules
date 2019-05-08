@@ -1,0 +1,27 @@
+[submodule "zstd-nginx-module"]
+	path = zstd-nginx-module
+	url = https://github.com/tokers/zstd-nginx-module.git
+[submodule "ipscrub"]
+	path = ipscrub
+	url = https://github.com/masonicboom/ipscrub.git
+[submodule "ngx_brotli"]
+	path = ngx_brotli
+	url = https://github.com/google/ngx_brotli.git
+[submodule "incubator-pagespeed-ngx"]
+	path = incubator-pagespeed-ngx
+	url = https://github.com/apache/incubator-pagespeed-ngx.git
+[submodule "nginx-module-sysguard"]
+	path = nginx-module-sysguard
+	url = https://github.com/vozlt/nginx-module-sysguard.git
+[submodule "headers-more-nginx-module"]
+	path = headers-more-nginx-module
+	url = https://github.com/openresty/headers-more-nginx-module.git
+[submodule "nginx-nonewlines"]
+	path = nginx-nonewlines
+	url = https://github.com/vedang/nginx-nonewlines.git
+[submodule "nginx-http-slice"]
+	path = nginx-http-slice
+	url = https://github.com/alibaba/nginx-http-slice.git
+[submodule "naxsi"]
+	path = naxsi
+	url = https://github.com/nbs-system/naxsi.git
