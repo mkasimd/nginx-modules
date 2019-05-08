@@ -22,3 +22,6 @@
 [submodule "naxsi"]
 	path = naxsi
 	url = https://github.com/nbs-system/naxsi.git
+[submodule "incubator-pagespeed-ngx"]
+	path = incubator-pagespeed-ngx
+	url = https://github.com/mkasimd/incubator-pagespeed-ngx.git
