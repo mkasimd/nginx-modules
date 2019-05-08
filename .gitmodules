@@ -7,9 +7,6 @@
 [submodule "ngx_brotli"]
 	path = ngx_brotli
 	url = https://github.com/google/ngx_brotli.git
-[submodule "incubator-pagespeed-ngx"]
-	path = incubator-pagespeed-ngx
-	url = https://github.com/apache/incubator-pagespeed-ngx.git
 [submodule "nginx-module-sysguard"]
 	path = nginx-module-sysguard
 	url = https://github.com/vozlt/nginx-module-sysguard.git
