@@ -1,6 +1,3 @@
-[submodule "zstd-nginx-module"]
-	path = zstd-nginx-module
-	url = https://github.com/mkasimd/zstd-nginx-module.git
 [submodule "ipscrub"]
 	path = ipscrub
 	url = https://github.com/masonicboom/ipscrub.git
@@ -25,3 +22,6 @@
 [submodule "incubator-pagespeed-ngx"]
 	path = incubator-pagespeed-ngx
 	url = https://github.com/mkasimd/incubator-pagespeed-ngx.git
+[submodule "zstd-nginx-module"]
+	path = zstd-nginx-module
+	url = https://github.com/mkasimd/zstd-nginx-module
