@@ -25,6 +25,3 @@
 [submodule "zstd-nginx-module"]
 	path = zstd-nginx-module
 	url = https://github.com/mkasimd/zstd-nginx-module
-[submodule "ngx_quic"]
-	path = ngx_quic
-	url = https://github.com/aunali1/ngx_quic.git
