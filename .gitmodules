@@ -31,3 +31,6 @@
 [submodule "modsecurity"]
 	path = modsecurity
 	url = https://github.com/SpiderLabs/ModSecurity-nginx.git
+[submodule "dependencies/libmodsecurity"]
+	path = dependencies/libmodsecurity
+	url = https://github.com/SpiderLabs/ModSecurity.git
