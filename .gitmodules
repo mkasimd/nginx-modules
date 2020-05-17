@@ -28,3 +28,6 @@
 [submodule "quiche"]
 	path = quiche
 	url = https://github.com/cloudflare/quiche.git
+[submodule "modsecurity"]
+	path = modsecurity
+	url = https://github.com/SpiderLabs/ModSecurity-nginx.git
