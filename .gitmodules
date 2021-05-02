@@ -21,7 +21,7 @@
 	url = https://github.com/nbs-system/naxsi.git
 [submodule "incubator-pagespeed-ngx"]
 	path = incubator-pagespeed-ngx
-	url = https://github.com/apache/incubator-pagespeed-ngx
+	url = https://github.com/mkasimd/incubator-pagespeed-ngx.git
 [submodule "zstd-nginx-module"]
 	path = zstd-nginx-module
 	url = https://github.com/mkasimd/zstd-nginx-module
